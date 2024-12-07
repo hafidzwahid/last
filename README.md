@@ -1,0 +1,2 @@
+# last
+ini terakhir
